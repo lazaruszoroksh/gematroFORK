@@ -1,6 +1,6 @@
 # Fork of Gematro
 
-This is a fork of the popular criptography/gematria calculator called Gematro, hosted at [gematro.com](https://gematro.com).
+This is a fork of the popular cryptography/gematria calculator called Gematro, hosted at [gematro.com](https://gematro.com).
 This fork aims at adding new ciphers as fast as possible! In fact, it has been added the QWERTY set of ciphers. 
 
 ## List of Modifications
